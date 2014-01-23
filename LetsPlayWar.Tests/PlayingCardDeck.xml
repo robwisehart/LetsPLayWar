@@ -1,0 +1,56 @@
+﻿<deck name="BlueDeck" backImage="bluecardpack.png">
+  <cards>
+	  <card name="Ace of Clubs" value="14" image=" 96px-Playing_card_club_A_svg.png" />
+	  <card name="King of Clubs" value="13" image=" 96px-Playing_card_club_K_svg.png" />
+	  <card name="Queen of Clubs" value="12" image=" 96px-Playing_card_club_Q_svg.png" />
+	  <card name="Jack of Clubs" value="11" image=" 96px-Playing_card_club_J_svg.png" />
+	  <card name="10 of Clubs" value="10" image=" 96px-Playing_card_club_10_svg.png" />
+	  <card name="9 of Clubs" value="9" image=" 96px-Playing_card_club_9_svg.png" />
+	  <card name="8 of Clubs" value="8" image=" 96px-Playing_card_club_8_svg.png" />
+	  <card name="7 of Clubs" value="7" image=" 96px-Playing_card_club_7_svg.png" />
+	  <card name="6 of Clubs" value="6" image=" 96px-Playing_card_club_6_svg.png" />
+	  <card name="5 of Clubs" value="5" image=" 96px-Playing_card_club_5_svg.png" />
+	  <card name="4 of Clubs" value="4" image=" 96px-Playing_card_club_4_svg.png" />
+	  <card name="3 of Clubs" value="3" image=" 96px-Playing_card_club_3_svg.png" />
+	  <card name="2 of Clubs" value="2" image=" 96px-Playing_card_club_2_svg.png" />
+	  <card name="Ace of Spades" value="14" image=" 96px-Playing_card_spade_A_svg.png" />
+	  <card name="King of Spades" value="13" image=" 96px-Playing_card_spade_K_svg.png" />
+	  <card name="Queen of Spades" value="12" image=" 96px-Playing_card_spade_Q_svg.png" />
+	  <card name="Jack of Spades" value="11" image=" 96px-Playing_card_spade_J_svg.png" />
+	  <card name="10 of Spades" value="10" image=" 96px-Playing_card_spade_10_svg.png" />
+	  <card name="9 of Spades" value="9" image=" 96px-Playing_card_spade_9_svg.png" />
+	  <card name="8 of Spades" value="8" image=" 96px-Playing_card_spade_8_svg.png" />
+	  <card name="7 of Spades" value="7" image=" 96px-Playing_card_spade_7_svg.png" />
+	  <card name="6 of Spades" value="6" image=" 96px-Playing_card_spade_6_svg.png" />
+	  <card name="5 of Spades" value="5" image=" 96px-Playing_card_spade_5_svg.png" />
+	  <card name="4 of Spades" value="4" image=" 96px-Playing_card_spade_4_svg.png" />
+	  <card name="3 of Spades" value="3" image=" 96px-Playing_card_spade_3_svg.png" />
+	  <card name="2 of Spades" value="2" image=" 96px-Playing_card_spade_2_svg.png" />
+	  <card name="Ace of Diamonds" value="14" image=" 96px-Playing_card_diamond_A_svg.png" />
+	  <card name="King of Diamonds" value="13" image=" 96px-Playing_card_diamond_K_svg.png" />
+	  <card name="Queen of Diamonds" value="12" image=" 96px-Playing_card_diamond_Q_svg.png" />
+	  <card name="Jack of Diamonds" value="11" image=" 96px-Playing_card_diamond_J_svg.png" />
+	  <card name="10 of Diamonds" value="10" image=" 96px-Playing_card_diamond_10_svg.png" />
+	  <card name="9 of Diamonds" value="9" image=" 96px-Playing_card_diamond_9_svg.png" />
+	  <card name="8 of Diamonds" value="8" image=" 96px-Playing_card_diamond_8_svg.png" />
+	  <card name="7 of Diamonds" value="7" image=" 96px-Playing_card_diamond_7_svg.png" />
+	  <card name="6 of Diamonds" value="6" image=" 96px-Playing_card_diamond_6_svg.png" />
+	  <card name="5 of Diamonds" value="5" image=" 96px-Playing_card_diamond_5_svg.png" />
+	  <card name="4 of Diamonds" value="4" image=" 96px-Playing_card_diamond_4_svg.png" />
+	  <card name="3 of Diamonds" value="3" image=" 96px-Playing_card_diamond_3_svg.png" />
+	  <card name="2 of Diamonds" value="2" image=" 96px-Playing_card_diamond_2_svg.png" />
+	  <card name="Ace of Hearts" value="14" image=" 96px-Playing_card_heart_A_svg.png" />
+	  <card name="King of Hearts" value="13" image=" 96px-Playing_card_heart_K_svg.png" />
+	  <card name="Queen of Hearts" value="12" image=" 96px-Playing_card_heart_Q_svg.png" />
+	  <card name="Jack of Hearts" value="11" image=" 96px-Playing_card_heart_J_svg.png" />
+	  <card name="10 of Hearts" value="10" image=" 96px-Playing_card_heart_10_svg.png" />
+	  <card name="9 of Hearts" value="9" image=" 96px-Playing_card_heart_9_svg.png" />
+	  <card name="8 of Hearts" value="8" image=" 96px-Playing_card_heart_8_svg.png" />
+	  <card name="7 of Hearts" value="7" image=" 96px-Playing_card_heart_7_svg.png" />
+	  <card name="6 of Hearts" value="6" image=" 96px-Playing_card_heart_6_svg.png" />
+	  <card name="5 of Hearts" value="5" image=" 96px-Playing_card_heart_5_svg.png" />
+	  <card name="4 of Hearts" value="4" image=" 96px-Playing_card_heart_4_svg.png" />
+	  <card name="3 of Hearts" value="3" image=" 96px-Playing_card_heart_3_svg.png" />
+	  <card name="2 of Hearts" value="2" image=" 96px-Playing_card_heart_2_svg.png" />
+  </cards>
+</deck>
