@@ -9,6 +9,12 @@
     <%Html.BeginForm("BeginGame", "Home");%>
         <h2>Let's Play War!!</h2>
 
+        <div><%: Html.ValidationSummary() %></div>
+        <div><% if (ViewData.ContainsKey("Error"))
+                {
+                    ViewData["Error"].ToString();
+                } %></div>
+
         <div style="width:100px;float:left;margin:4px;">Player 1 Name:</div>
         <div style="width:100px;float:left;margin:4px;"><%=Html.TextBoxFor(x => Model.Player1Name) %></div>
         <div style="clear:both;"></div>
